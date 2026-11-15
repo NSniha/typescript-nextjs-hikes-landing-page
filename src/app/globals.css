@@ -3400,3 +3400,42 @@ h3 {
   }
 }
 /* ========================== RESPONSIVE END =========================== */
+
+.hero-image {
+  filter: brightness(0.92) contrast(1.05);
+}
+
+.hero-shade {
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  pointer-events: none;
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.76) 0%,
+      rgba(0, 0, 0, 0.42) 18%,
+      rgba(0, 0, 0, 0.12) 38%,
+      rgba(0, 0, 0, 0.08) 50%,
+      rgba(0, 0, 0, 0.12) 62%,
+      rgba(0, 0, 0, 0.42) 82%,
+      rgba(0, 0, 0, 0.76) 100%
+    ),
+
+    linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.32) 0%,
+      rgba(0, 0, 0, 0.16) 25%,
+      rgba(0, 0, 0, 0.1) 50%,
+      rgba(0, 0, 0, 0.2) 75%,
+      rgba(0, 0, 0, 0.58) 100%
+    );
+}
+
+.feature-strip {
+  background: rgba(0, 0, 0, 0.52);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
