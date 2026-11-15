@@ -19,17 +19,10 @@
     <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" width="48" height="48" /></a>
   </p>
   <p><strong>Next.js · React · TypeScript · Tailwind CSS · Motion · Lucide</strong></p>
-  <p>
-    <a href="#overview">Overview</a> ·
-    <a href="#features">Features</a> ·
-    <a href="#tech-stack">Tech Stack</a> ·
-    <a href="#getting-started">Getting Started</a> ·
-    <a href="#deployment">Deployment</a> ·
-    <a href="#author">Author</a>
-  </p>
 </div>
 
-![Forest lake cover image used by SYNTASK](./public/images/hero.jpg)
+<img width="1366" height="852" alt="gofullpage-hikes-landing-page-vercel-app-2026-11-16-00_43_33" src="https://github.com/user-attachments/assets/9991afa0-b878-468b-ba17-b119ff535d3d" />
+
 
 ## Overview
 
